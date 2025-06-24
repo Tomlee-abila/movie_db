@@ -86,14 +86,6 @@ src/
 ├── main.tsx           // App entry point
 ```
 
----
-
-## Known Issues
-
-* Previously, movie detail pages such as `/movie/574475` returned blank. This has been resolved.
-* Input text in the search box was not visible — now fixed with improved styling.
-
----
 
 ## Development Notes
 
